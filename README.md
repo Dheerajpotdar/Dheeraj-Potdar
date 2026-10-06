@@ -1,19 +1,28 @@
-# 👋 Hi, I'm Dheeraj Potdar
+<h1 align="center">Hi 👋, I'm Dheeraj Potdar</h1>
+<h3 align="center">Backend & Microservices Engineer | Senior Software Engineer at Capgemini</h3>
 
-**Backend & Microservices Engineer** | Senior Software Engineer at Capgemini
-
-I build scalable, secure, and reliable enterprise backend services using **Java 17**, **Spring Boot**, and **Microservices architecture**. Passionate about low-latency systems, event-driven workflows, SQL optimization, and distributed systems.
+<p align="center">
+  I build scalable, secure, and reliable enterprise backend services using <b>Java 17</b>, <b>Spring Boot</b>, and <b>Microservices architecture</b>. Passionate about low-latency systems, event-driven workflows, SQL optimization, and distributed systems.
+</p>
 
 ---
 
-## 🛠️ Technical Stack
-
-* **Languages & Core:** Java (8/17), C#, Multithreading, OOP, SOLID Principles, Data Structures & Algorithms
-* **Backend Frameworks:** Spring Boot, Spring Security (OAuth2/JWT), Spring Data JPA, Hibernate, REST APIs, Microservices, J2EE/Servlets
-* **Messaging & Caching:** Apache Kafka, Redis
-* **Databases:** PostgreSQL, MySQL (SQL Optimization & Query Performance Tuning)
-* **DevOps & Tools:** Docker, AWS, Azure, CI/CD, Git, Maven, Postman, Swagger/OpenAPI, JUnit
-* **Frontend:** Angular, React.js, TypeScript
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
 ---
 
@@ -48,8 +57,14 @@ I build scalable, secure, and reliable enterprise backend services using **Java 
 
 ---
 
-## 📫 Connect With Me
+<h3 align="left">📫 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/dheerajpotdar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:potdardheerajs@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
-* **LinkedIn:** [dheerajpotdar](https://linkedin.com/in/dheerajpotdar)
-* **Email:** potdardheerajs@gmail.com
-* **Location:** Pune, India
+📍 **Location:** Pune, India
