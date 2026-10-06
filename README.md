@@ -5,6 +5,7 @@
   I build scalable, secure, and reliable enterprise backend services using <b>Java 17</b>, <b>Spring Boot</b>, and <b>Microservices architecture</b>. Passionate about low-latency systems, event-driven workflows, SQL optimization, and distributed systems.
 </p>
 
+  
 ---
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -28,13 +29,11 @@
 
 ## 💼 Experience Highlights
 
-### **Senior Software Engineer** @ Capgemini *(Client: TransUnion)*
+### **Senior Software Engineer** @ Capgemini
 * **Event-Driven Workflows:** Designed and implemented Kafka-based asynchronous processing for distributed card-domain transaction workflows.
 * **Performance Tuning:** Optimized complex SQL queries and database batching, cutting query latency by **35%** for high-volume workloads.
 * **Security & Reliability:** Secured financial REST APIs using **Spring Security** and **OAuth2/JWT**, cutting invalid backend traffic by **25%**.
 * **Production Observability:** Resolved production performance bottlenecks through end-to-end API-to-database tracing and root-cause analysis.
-
-### **Software Engineer** @ Capgemini
 * **Legacy Modernization:** Migrated legacy Java Servlet/J2EE applications to modern REST services, integrating them with an Angular frontend with zero-downtime deployment.
 * **System Efficiency:** Reduced application setup and workflow processing times by **30%**.
 
